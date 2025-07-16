@@ -1,0 +1,5 @@
+EmployeeID,Age,Department,Tenure,LeftCompany
+101,25,Sales,2,0
+102,30,HR,5,1
+103,45,Tech,10,1
+104,50,Sales,3,0
